@@ -1,0 +1,19 @@
+.odd_nums{
+    background-color: rgb(238, 58, 94);
+    font-family: "Verdana", "sans-serif";
+}
+
+#id_sec{
+    color: #3333FF;
+    font-size: 36px;
+}
+
+.odd_nums.third_one{
+    font-size: 24px
+}
+
+#id_fourth{
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: 900
+}
